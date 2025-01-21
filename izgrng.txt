@@ -1,1 +1,2 @@
-Hi, this is Software Engineering module.
+Hi, this is Software Engineering module tadaaaa.
+Week-1, working on creating repository and files.
